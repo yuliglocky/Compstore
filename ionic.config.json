@@ -1,0 +1,7 @@
+{
+  "name": "compStore",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

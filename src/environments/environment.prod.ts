@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: false,
+  useEmulators: true, // do not use emulators in production build
 };
